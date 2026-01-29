@@ -1,7 +1,9 @@
 # Brain Tumor Classification Using Machine Learning
 
-This project focuses on classifying brain tumor images using machine learning techniques.  
-The goal is to support early diagnosis by automatically detecting tumor types from medical imaging data.
+## 📌 Project Overview
+
+This project implements Machine Learning and Deep Learning models to classify brain tumor images.
+A Convolutional Neural Network (CNN) architecture was used to achieve high accuracy in medical image classification.
 
 
 ## Motivation
@@ -10,14 +12,39 @@ Brain tumor diagnosis is a time-critical and complex task that heavily depends o
 This project aims to explore how machine learning models can assist medical professionals by providing fast and reliable tumor classification results.
 
 
-## Technologies Used
+## 🧰 Technologies Used
 
+### Programming Language
 - Python
+
+### Machine Learning
+- Scikit-learn
+
+### Deep Learning
+- TensorFlow
+- Keras
+- Convolutional Neural Networks (CNN)
+
+### Data Processing
 - NumPy
 - Pandas
-- Scikit-learn
-- Matplotlib / Seaborn
+
+### Visualization
+- Matplotlib
+- Seaborn
+
+### Development Environment
 - Jupyter Notebook
+
+
+## 🧠 Model & Methodology
+
+- Image preprocessing (resizing, normalization)
+- CNN-based deep learning architecture
+- Supervised learning approach
+- Train-test split for evaluation
+- Performance metrics: Accuracy, Confusion Matrix
+
 
 
 ## Dataset
