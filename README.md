@@ -25,6 +25,7 @@ This project aims to explore how machine learning models can assist medical prof
 - Medical brain tumor image dataset
 - Data includes labeled tumor and non-tumor images
 - Dataset was preprocessed before training (normalization, resizing, feature extraction)
+- Dataset: https://data.mendeley.com/datasets/zwr4ntf94j/5
 
 
 ## Project Structure
