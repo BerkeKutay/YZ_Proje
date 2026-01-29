@@ -55,6 +55,10 @@ YZ_Proje/
 - Results indicate that machine learning can effectively support brain tumor classification
 
 
+<img width="593" height="547" alt="Ekran Resmi 2026-01-29 19 49 07" src="https://github.com/user-attachments/assets/ff879e50-81ff-4445-84c1-48c68172ea45" />
+
+
+
 ## How to Run
 
 1. Clone the repository:
