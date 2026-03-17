@@ -1,0 +1,47 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+
+# Model weights & checkpoints
+*.h5
+*.keras
+*.pkl
+*.joblib
+saved_models/
+checkpoints/
+
+# Data (büyük dosyalar GitHub'a gitmemeli)
+data/
+dataset/
+*.zip
+*.tar.gz
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+logs/
